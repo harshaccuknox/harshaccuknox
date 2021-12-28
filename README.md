@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshaccuknox
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently Product Manager & Security Engineer
+- 👀 CyberSecurity Enthusiast
+- 🌱 Product Manager & Security Engineer
 - 📫 You can contact me on Slack
 
 <!---
